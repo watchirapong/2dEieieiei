@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class CamMovement : MonoBehaviour
 {
+<<<<<<< HEAD
     //helooo
+=======
+>>>>>>> a37621b (camerafollow)
     // Start is called before the first frame update
     public Transform player;
     public Vector3 offset;
