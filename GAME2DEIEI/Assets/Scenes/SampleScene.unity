@@ -404,7 +404,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 871562588}
   offset: {x: 0, y: 0, z: -5}
+<<<<<<< HEAD
   speed: 1
+=======
+  speed: 3
+>>>>>>> parent of c458ad6 (hello)
 --- !u!1 &871562585
 GameObject:
   m_ObjectHideFlags: 0
@@ -583,6 +587,7 @@ MonoBehaviour:
   jump: 200
   rb: {fileID: 871562586}
   isJumping: 0
+<<<<<<< HEAD
 --- !u!1 &1283219577
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,6 +674,8 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of c458ad6 (hello)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
