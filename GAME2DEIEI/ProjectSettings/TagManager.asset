@@ -48,3 +48,6 @@ TagManager:
   - name: Ground
     uniqueID: 1419004783
     locked: 0
+  - name: New Layer 3
+    uniqueID: 2616528459
+    locked: 0
